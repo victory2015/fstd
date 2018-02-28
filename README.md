@@ -1,2 +1,2 @@
 # fstd
-backup blog
+autonomous blog project
