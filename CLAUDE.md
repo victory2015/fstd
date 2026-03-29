@@ -19,7 +19,7 @@ The repository is currently in an early/placeholder state — there is no source
 | Dependencies | None |
 | Language/framework | Not yet determined |
 
-The repository was created in February 2018 and contains 4 commits, all documentation-only.
+The repository was created in February 2018 and contains 5 commits — 4 original documentation-only commits plus the addition of this CLAUDE.md file (March 2026).
 
 ---
 
@@ -85,3 +85,18 @@ Since no code exists yet, these are guiding principles for any future implementa
 - Do not add placeholder or stub files unless explicitly requested.
 - If implementing the blog system, favor well-established tools (e.g., Jekyll, Hugo, or a simple Node.js/Python script) over custom solutions.
 - Check for a `.gitignore` before committing generated files or secrets.
+
+---
+
+## Current File Inventory
+
+| File | Description |
+|------|-------------|
+| `README.md` | Minimal project description with links to fstd.com.tw |
+| `CLAUDE.md` | This file — AI assistant guide (added March 2026) |
+
+---
+
+## Last Updated
+
+2026-03-29 — Updated to reflect 5-commit history and current file inventory.
